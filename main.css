@@ -78,6 +78,11 @@ body {
 .hero-content {
     font-size: 18px;
 }
+.logo {
+    font-size: 40px;
+                    font-weight: bold;
+                    color: #000;
+}
 .card {
     border-radius: 0 !important;
     height: 100%;
